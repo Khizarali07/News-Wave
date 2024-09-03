@@ -1,0 +1,60 @@
+.bold {
+  font-weight: 900 !important;
+}
+
+.img-height {
+  height: 30vh;
+}
+
+.breaking {
+  overflow: hidden;
+}
+
+.title-height {
+  height: 10vh;
+
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+.description-height {
+  height: 17vh;
+  font-size: medium;
+
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+
+.date-element {
+  font-size: small !important;
+}
+
+#heading {
+  text-align: center;
+  font-size: 30px;
+}
+#border {
+  border: 5px solid blue;
+  text-align: center;
+  font-size: 15px;
+  border-radius: 10%;
+}
+
+.det {
+  font-size: 15px;
+  font-weight: 300;
+  display: block;
+}
+.sum {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.margin {
+  margin-top: 10vh;
+}
+
+.infinite-scroll-component {
+  overflow: hidden !important;
+}
