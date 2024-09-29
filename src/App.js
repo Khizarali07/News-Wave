@@ -18,7 +18,6 @@ class App extends Component{
 
   render(){
   const apikey = process.env.REACT_APP_api_key;
-  console.log(apikey);
   
   return (
     <>
